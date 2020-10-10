@@ -1,5 +1,5 @@
 # twoSumC
-Leetcode easy in C
+Leetcode easy in C and python3
 
 
 Directions:
